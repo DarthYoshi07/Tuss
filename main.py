@@ -163,4 +163,4 @@ async def on_member_remove(member):
     print(f'(member) has exited a server')
 
 #Command That Runs The Bot/ IF YOU COPY AND PASTED THIS CODE INTO ANOTHER BOT DELETE THE ('') CONTENT AND REPLACE IT WITH YOUR BOT'S TOKEN!   
-client.run('NzQ3MTEzNDEyNzIyNjg4MDgw.GXZM5O.4FpICAuLLJC9BcsVLySBBErclWr8ypySoGaTBc')
+client.run('YOURTOKENHERE')
